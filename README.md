@@ -6,5 +6,7 @@ To play: Install python-chess, and then from the main directory, run: python gam
 To train: This model was trained with:
 
 CUDA 7.5
+
 Tensorflow 0.10.0
+
 Run python train.py to train the model on the data available in the folder 'pGames' Some older network checkpoints can be found in the folder 'net'.
